@@ -5,6 +5,7 @@ void main() {
     printf("Hello! This is Tom.\n");
     printf("Hello! This is Qixin.\n");
     printf("Qixin likes orange.\n");
+    printf("Tom likes apple.");
 }
 
 
