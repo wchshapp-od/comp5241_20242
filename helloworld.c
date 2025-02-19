@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main(int argc, char ** argv) {
     printf("Goodbye World!\n");
     printf("Hello! This is Tom.\n");
     printf("Hello! This is Qixin.\n");
