@@ -6,6 +6,7 @@ void main(int argc, char ** argv) {
     printf("Hello! This is Qixin.\n");
     printf("Qixin likes orange.\n");
     printf("Mary likes avacado.\n");
+    printf("End of test.\n");
 }
 
 
